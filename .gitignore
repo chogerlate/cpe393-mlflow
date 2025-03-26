@@ -1,0 +1,12 @@
+.venv
+.env
+mlruns
+preprocessor
+mlflow.db
+*.bin
+*.pkl
+*.json
+*.csv
+*.jsonl
+*.jsonl.gz
+*.jsonl.gz.part
